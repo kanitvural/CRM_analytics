@@ -1,4 +1,4 @@
-# CRM Analytics for Purchase Propensity Prediction in an Online Retail Dataset
+# Comprehensive CRM Analytics on the Online Retail Dataset
 
 ![CRM Analytics Banner](crm_analytics.webp)
 
