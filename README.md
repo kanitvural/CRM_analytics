@@ -1,5 +1,7 @@
 # CRM Analytics for Purchase Propensity Prediction in an Online Retail Dataset
 
+![CRM Analytics Banner](crm_analytics.webp)
+
 ### Introduction
 
 In this study, the Online Retail dataset has been utilized to perform CRM (Customer Relationship Management) analyses, which are frequently applied in the industry. The key analyses and their purposes are as follows:
@@ -85,3 +87,14 @@ This is a transactional data set which contains all the transactions occurring b
   - [6.3. Purchase Propensity Prediction Using Logistic Regression](#63-purchase-propensity-prediction-using-logistic-regression)
 
 - [7. Conclusion](#7-conclusion)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+   ```bash
+   git clone https://github.com/kanitvural/CRM_analytics.git
+   cd CRM_analytics
+   python -m venv venv
+   .\venv\Scripts\activate
+   pip install -r requirements.txt
