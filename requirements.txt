@@ -1,0 +1,15 @@
+pandas
+openpyxl
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+tqdm
+hyperopt
+imbalanced-learn
+missingno
+setuptools
+python-dotenv
+google-generativeai
+lifetimes
